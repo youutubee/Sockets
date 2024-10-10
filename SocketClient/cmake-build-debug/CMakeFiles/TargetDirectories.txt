@@ -1,0 +1,3 @@
+/Users/shrijankatiyar/CLionProjects/SocketClient/cmake-build-debug/CMakeFiles/SocketClient.dir
+/Users/shrijankatiyar/CLionProjects/SocketClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shrijankatiyar/CLionProjects/SocketClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
